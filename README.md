@@ -1,5 +1,5 @@
 
 
-<h1 align="center"> Livewire Ecommerce Platform</h1>
+<h1 align="center"> Livewire Auth Platform</h1>
 
-<p align="center">This is a e-commerce platform I made powered Laravel 8</p>
+<p align="center">This is a Livewire Auth platform I made with Laravel 8</p>
